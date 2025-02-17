@@ -47,5 +47,8 @@
 		"postcss": "^8.4.21",
 		"prettier": "^2.8.4",
 		"tailwindcss": "^3.2.6"
+	},
+	"installConfig": {
+		"hoistingLimits": "workspaces"
 	}
 }
